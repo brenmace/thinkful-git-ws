@@ -1,3 +1,4 @@
+Hello World
 # thinkful-git-ws
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
@@ -5,7 +6,8 @@ Git is a version-control system that tracks changes made to files and allows for
 hello world
 ## Git
 
-* What is Git?
+* What is Git?!
+
   * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
 * Local & Remote Branches
   * Local - branch stored on your personal computer
